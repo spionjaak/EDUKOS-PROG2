@@ -1,3 +1,7 @@
+/*Napisati C program koji će učitati cijeli broj te u datoteku naziva suma.txt te upisati sumu njegovih znamenaka.
+Za traženje sume znamenaka broja koristiti rekurziju.
+NAPOMENA: Zadatak pokazati nastavniku na satu, VPL nema testcase-ove.*/
+
 #include <stdio.h>  // Uključujemo standardnu biblioteku za ulaz/izlaz (printf, scanf, fopen, fprintf, itd.)
 
 // Rekurzivna funkcija koja računa sumu znamenaka broja
