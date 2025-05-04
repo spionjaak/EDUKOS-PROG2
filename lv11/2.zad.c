@@ -49,6 +49,7 @@ int main(){
     for (int i = 0; i<500; i++) {
         fscanf(file, "%d",&brojeviIzDatoteke[i]);
     }
+    fclose(file);
     printf("REZULTATI:\nSekvencijalno:\n");
     for (int i = 0; i<5; i++) {
         if((temp = sekvencijalnoPretrazivanje(brojeviIzDatoteke, 500, korisnickiBrojevi[i]))!=-1){
