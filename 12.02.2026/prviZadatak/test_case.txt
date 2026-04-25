@@ -1,0 +1,53 @@
+case = test_1
+grade reduction = 30%
+input = -3
+22
+3
+-1
+11
+4
+output = /REZULTATI:
+3
+29.84
+26.82
+12.89
+memory freed
+/
+
+case = test_2
+grade reduction = 20%
+input = 1
+4
+output = /REZULTATI:
+0
+34.02
+memory freed
+/
+
+case = test_3
+grade reduction = 20%
+input = 5
+5
+output = /REZULTATI:
+4
+41.16
+5.40
+45.22
+10.70
+-34.33
+memory freed
+/
+
+case = test_4
+grade reduction = 30%
+input = 0
+11
+1
+-25
+20
+3
+output = /REZULTATI:
+0
+34.02
+memory freed
+/
